@@ -37,7 +37,7 @@ Linux命令大全(超详细版)
 | /boot | linux系统启动的时候需要加载和使用的文件                                                         |                                                |
 | /dev  | 外设连接linux后，对应的文件存放的位置                                                            | 类似Windows中的U盘，光盘的符号文件              |
 | /etc  | 存放系统或者安装的程序的配置文件,注册服务等                                                     | 类似windows中的注册表                          |
-| /home | 家目录，linux中每新建一个用户，会自动在home中为该用户分配一个文件夹                                 | 类似windows中的"我的文档"，每个用户有自己的目录 |
+| /home | 家目录，linux中每新建一个用户，会自动在home中为该用户分配一个文件夹                                 | 类似windows中的"用户"，每个用户有自己的目录 |
 | /root | root账户的家目录，仅供root账户使用                                                               | 类似windows中的Administrator账户的"我的文档"   |
 | /lib  | linux的命令和系统启动，需要使用一些公共的依赖，放在lib中，类似我们开发的代码执行需要引入的jdk的jar。 |                                                |
 | /usr  | 很多系统软件的默认安装路径                                                                      | 类似windows中的C盘下的Program Files目录        |
